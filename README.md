@@ -2,16 +2,15 @@
   <img src="files/cartoon_computer.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/benjaminfaruna">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.twitter.com/Neodynamics">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> <br>
+  <img src="https://komarev.com/ghpvc/?username=BenFaruna&style=flat-square&color=blue" alt=""/>
 </div>
-
-<img src="https://komarev.com/ghpvc/?username=BenFaruna&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hey there
@@ -28,7 +27,7 @@
 
 - :seedling: Learning more about the basis of Machine Learning and looking for opportunities to improve my writing and presentation skill.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna) [![Twitter Badge](https://img.shields.io/badge/-Neodynamics-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/Neodynamics)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=60 height=60/>&nbsp;
