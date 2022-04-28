@@ -26,7 +26,7 @@
 
 - :telescope: I’m looking for opportunities to work as a Machine Leanring Engineer.
 
-- :seedling: Learning more about the base of Machine Learning and looking for opportunities to improve my writing and presentation skill.
+- :seedling: Learning more about the basis of Machine Learning and looking for opportunities to improve my writing and presentation skill.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna)
 
