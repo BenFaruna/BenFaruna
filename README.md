@@ -28,7 +28,7 @@
 
 - :seedling: Learning more about the basis of Machine Learning and looking for opportunities to improve my writing and presentation skill.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=60 height=60/>&nbsp;
@@ -48,6 +48,8 @@
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenFaruna&hide=jupyter%20notebook&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenFaruna&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
 
 [![BenFaruna's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenFaruna&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
