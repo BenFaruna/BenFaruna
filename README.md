@@ -21,7 +21,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me: I am a Chemical Engineering graduate with interest in web development (Backend), Data Science and Machine learning.
+### :man_technologist: About Me: 
+I am a Chemical Engineering graduate with interest in web development (Backend), Data Science and Machine learning.
 
 - :telescope: I’m looking for opportunities to work as a Machine Leanring Engineer.
 
