@@ -22,13 +22,15 @@
 </div>
 
 ### :man_technologist: About Me: 
-I am a Chemical Engineering graduate with interest in web development (Backend), Data Science and Machine learning.
+I am a Chemical Engineering graduate interested in web development (Backend), Data Science and Machine learning.
 
-- :telescope: I’m looking for opportunities to work as a Machine Leanring Engineer.
+- :telescope: I’m seeking opportunities to work as a Machine Learning Engineer.
 
-- :seedling: Learning more about the basis of Machine Learning and looking for opportunities to improve my writing and presentation skill.
+- :seedling: Learning more about Blockchain technology and looking for opportunities to improve my writing and presentation skill.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna) [![Twitter Badge](https://img.shields.io/badge/-Neodynamics-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/Neodynamics)
+- :book: Currently studying "The Go programming language" by Alan A. A. Donovan and Brian W. Kernighan
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna) [![Twitter Badge](https://img.shields.io/badge/-Neodynamics-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/Neodynamics)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width=60 height=60/>&nbsp;
