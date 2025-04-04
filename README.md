@@ -22,13 +22,14 @@
 </div>
 
 ### :man_technologist: About Me: 
-I am a Chemical Engineering graduate interested in web development (Backend), Data Science and Machine learning.
+I am a Chemical Engineering graduate interested in web development (Backend), Blockchain, Data Science and Machine learning.
 
-- :telescope: I’m seeking opportunities to work as a Machine Learning Engineer.
+- :telescope: I’m seeking opportunities to work as a Blockchain Engineer.
 
-- :seedling: Learning more about Blockchain technology and looking for opportunities to improve my writing and presentation skill.
+- :seedling: Learning more about Blockchain technology and looking for opportunities to improve my writing and presentation skills.
 
-- :book: Currently studying "The Go programming language" by Alan A. A. Donovan and Brian W. Kernighan
+- :book: Currently studying "Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Martin Kleppmann
+  - "The Go programming language" by Alan A. A. Donovan and Brian W. Kernighan ✔️
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenFaruna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminfaruna) [![Twitter Badge](https://img.shields.io/badge/-Neodynamics-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/Neodynamics)
 
